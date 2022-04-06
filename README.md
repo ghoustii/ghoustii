@@ -4,7 +4,7 @@
 
 - 🔭 I'm learning skills as a full stack developer.
 - 🌱 Javascript and React
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/ghoustii">

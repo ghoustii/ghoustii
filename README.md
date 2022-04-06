@@ -1,4 +1,5 @@
-### Hey! I am Dan Almeida
+### Hi! I ghoustii 👻 
+### Welcome to my GitHub!
 
 
 
@@ -21,6 +22,7 @@
   <img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/3cb64072dc3091a6fd690bee9c098317.gif">
 </div>
+  <hr>
   <br>
 
 <div> 
